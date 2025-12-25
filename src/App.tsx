@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { 
   Github, Linkedin, Mail, FileText, 
-  Shield, Lock, Server, Terminal, X, Send,
+  Shield, Terminal, X, Send,
   CheckCircle, Briefcase, Award, ChevronRight, Check, Download
 } from 'lucide-react';
 
